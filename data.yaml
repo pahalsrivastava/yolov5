@@ -1,0 +1,4 @@
+train: E:\Projects\miniproject-ml\weapon-detection\dataset\weapon_detection\train
+val: E:\Projects\miniproject-ml\weapon-detection\dataset\weapon_detection\val
+nc: 1
+names: ['weapon']
